@@ -17,8 +17,8 @@ Advisor: Dr. Ying-Jen Yang, Laufer Center for Physical and Quantitative Biology,
 • Analyzed the statistical properties of the transmitter populations
 • Used information theory and stochastic thermodynamics to analyze information encoding and energetics of the transmitter dynamics
 
-high_performance_scientific_computing.py
+high_performance_scientific_computing.py:
 One project result from High-Performance Scientific Computing class. Introduction to hardware, software, and programming for large-scale scientific computing. Overview of multicore, cluster, and supercomputer architectures; procedure and object oriented languages; parallel computing paradigms and languages; graphics and visualization of large data sets; validation and verification; and scientific software development.
 
-social_media_ml_models.py
+social_media_ml_models.py:
 Collected data from Twitter and performed random feature analysis.
